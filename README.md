@@ -43,3 +43,6 @@ Run the notebook cells in order:
 ## Data
 The current dataset is a sample of [Netflix user feedback](https://www.kaggle.com/datasets/vishweshsalodkar/customer-feedback-dataset) stored in `./data/netflix.csv`.
 You can replace this with your own dataset as long as it follows the same structure.
+
+> [!TIP]
+> Replace the `MODEL` and `DATASET` variables in the 1st cell of `notebook.ipynb` with any model and dataset you want to use.
